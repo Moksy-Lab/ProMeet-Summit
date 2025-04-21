@@ -1,0 +1,91 @@
+natal
+hazy
+About the Summit = x
+Event Highlights = x
+fila 
+toby
+Who Should Attend = x
+Early Bird Discount / Urgency Banner = x 
+
+
+
+
+
+8. Summit – A large gathering of experts and learners for discussions and networking.
+1. Navbar
+Logo, anchor links (About, Speakers, Schedule, Tickets), and a standout CTA like “Get Your Pass” or “Register Now”.
+
+2. Hero Section
+Big, exciting headline (e.g., “Join the Global Tech Innovation Summit 2025”) with event date, location (virtual or in-person), and a CTA button.
+
+3. About the Summit
+Short intro explaining the summit’s purpose, theme, goals, and target audience.
+
+4. Event Highlights
+Bullet points or icons showing key attractions like keynote speeches, expert panels, workshops, networking events.
+
+5. Keynote Speakers
+Photos, names, and short bios of main speakers to establish credibility and build excitement.
+
+6. Full Speaker Lineup
+Grid showcasing all speakers, sorted by track or expertise, with filters if needed.
+
+7. Schedule / Agenda
+Day-by-day or session-by-session breakdown of the summit activities (talks, panels, breaks, networking sessions).
+
+8. Tracks & Topics
+Explain the different tracks or categories (e.g., AI, Sustainability, HealthTech) attendees can choose from.
+
+9. Workshops & Breakout Sessions
+Highlight hands-on workshops and smaller group sessions available during the summit.
+
+10. Who Should Attend
+Describe the ideal audience (e.g., CEOs, developers, marketers, researchers) to help visitors self-identify.
+
+11. Ticket Options & Pricing
+Show available passes (e.g., Early Bird, General Admission, VIP), what's included in each, and pricing.
+
+12. Early Bird Discount / Urgency Banner
+Limited-time offer or countdown to encourage early signups.
+
+13. Past Summit Highlights (Optional)
+Photos, videos, or stats (e.g., "5,000 attendees from 50 countries") from previous years to build trust.
+
+14. Venue Details (for in-person)
+Location map, venue highlights, travel info, accommodation links.
+
+15. Virtual Access Info (for online)
+Explain how attendees can join sessions online, platform details, and technical requirements.
+
+16. Sponsor / Partner Logos
+Show logos of event sponsors, partners, or supporting organisations.
+
+17. Networking Opportunities
+Explain how attendees can network (e.g., lounges, breakout rooms, app-based messaging).
+
+18. Exhibitors & Expo Area
+List participating companies showcasing their products or services at the event.
+
+19. Volunteer / Media / Speaker Application (Optional)
+Forms or links for those who want to volunteer, cover the event, or speak.
+
+20. FAQs
+Answer common questions about registration, access, refunds, schedules, and technical setup.
+
+21. Community Access (Optional)
+Invite attendees to join a summit community group before, during, or after the event.
+
+22. Social Proof / Testimonials
+Quotes or short videos from past attendees sharing their experiences.
+
+23. Newsletter Signup
+Capture emails to send event updates, speaker announcements, or future offers.
+
+24. Social Sharing Buttons
+Easy ways for attendees to share the summit on LinkedIn, Twitter, Facebook, Instagram.
+
+25. Final CTA Banner
+Motivational close (e.g., “Don’t Miss the Future of Innovation. Register Today!”) with a CTA button.
+
+26. Footer
+Logo, quick navigation links, legal links (Privacy Policy, Terms), and social media icons.
